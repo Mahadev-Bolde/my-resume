@@ -1,0 +1,36 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;}
+
+img{
+    border-radius: 50px;
+}
+.first_section{
+    margin-left: 60px;
+    margin-top: 20px;
+   
+}
+
+.inroduction{   
+    padding: 20px 20px 20px 80px;
+    margin:10px;
+}
+
+.education_table{
+    border-radius:10px;
+    padding: 20px;
+    margin-left: 150px;
+    color:  #FAFBFF;
+    background-color:#6349B8;
+
+    
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+
